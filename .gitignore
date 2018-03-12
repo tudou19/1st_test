@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs
+/MsgQueueTest/MsgQueueTest/Debug
+/MsgQueueTest/Debug
+/MsgQueueTest/.vs/MsgQueueTest/v15
+/test1/.vs/test1/v15
+/test1/Debug
+/test1/test1/Debug
